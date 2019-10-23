@@ -25,3 +25,6 @@ gcr.io/google_containers/kube-apiserver-amd64:v1.10.3
 ————————————————
 版权声明：本文为CSDN博主「nklinsirui」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/nklinsirui/article/details/80581286
+
+# Kubernetes国内镜像、下载安装包和拉取gcr.io镜像
+https://blog.csdn.net/nklinsirui/article/details/80581286
